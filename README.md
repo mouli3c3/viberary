@@ -7,7 +7,7 @@
 Viberary is a project that will recommend you books based not on genre or title, but vibe by performing semantic search across a set of learned embeddings on a dataset of books from Goodreads and their metadata. 
 
 The idea is pretty simple: return book recommendations based on the vibe of the book that you put in.
-So you don't put in "I want science fiction", you'd but in "atmospheric, female lead, worldbuilding, funny" as a prompt, and get back a list of books
+So you don't put in "I want science fiction", you'd put in "atmospheric, female lead, worldbuilding, funny" as a prompt, and get back a list of books
 
 ## Reference implementation: 
 ![](https://github.com/veekaybee/viberary/blob/main/assets/viberary.png)
